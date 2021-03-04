@@ -6,17 +6,17 @@
  */
 
 details.spoiler {
-	background-color: #fff;
+	background-color: #3a404a;
 }
 
 details.spoiler,
 .spoiler-header {
-	border-color: #ddd;
+	border-color: #171b24;
 }
 
 .spoiler-header {
-	background-color: #f3f3f3;
-	color: #333;
+	background-color: #242a36;
+	color: #ccccaf;
 }
 
 .spoiler-status {
